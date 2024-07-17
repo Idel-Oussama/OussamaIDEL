@@ -4,5 +4,5 @@ Hey there! I'm Oussama IDEL, a passionate web developer and AI enthusiast. With 
 
 - 🔭 I’m currently working on developing myself in different tech skills 
 - 🌱 I’m currently learning anything about A.I 
-- 📫 How to reach me: @Oussama_IDEL 
-- ⚡ Fun fact: i hate league of legends ;( 
+- 📫 How to reach me: LinkedIn:Idel Oussama
+
